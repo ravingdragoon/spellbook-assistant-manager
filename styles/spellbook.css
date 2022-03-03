@@ -83,3 +83,7 @@ button.levelup {
       height: 1em;
       width: 1em;
   }
+
+  .spellbook .entity-link.content-link {
+      display: flex;
+  }
