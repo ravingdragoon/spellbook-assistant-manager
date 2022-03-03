@@ -57,7 +57,7 @@ button.levelup {
     outline: 2px solid #f00;
   }
 
-  .dnd5e.sheet .items-list .item .class-image {
+  .tidy5e.sheet .items-list .item .class-image {
     flex: 0 0 30px;
     height: 30px;
     display: flex;
@@ -65,7 +65,7 @@ button.levelup {
     border: none;
   }
 
-  .dnd5e.sheet.actor .source-class {
+  .tidy5e.sheet.actor .source-class {
     flex: 0 0 80px;
     display: flex;
     font-size: 12px;
@@ -85,5 +85,5 @@ button.levelup {
   }
 
   .spellbook .entity-link.content-link {
-      display: flex1;
+      display: flex;
   }
