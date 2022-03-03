@@ -5,7 +5,7 @@
  export default class SelectItemsPrompt extends Dialog {
     constructor(items, dialogData={}, options={}) {
       super(dialogData, options);
-      this.options.classes = ["dnd5e", "dialog", "select-items-prompt", "sheet"];
+      this.options.classes = ["dnd5e", "dialog", "select-items-prompt", "sheet", "tidy5e"];
   
       /**
        * Store a reference to the Item entities being used
